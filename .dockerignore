@@ -1,0 +1,1 @@
+.venv\n.git\n.github\n.pytest_cache\n.ruff_cache\n__pycache__\n*.pyc\n
